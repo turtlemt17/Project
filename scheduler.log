@@ -1,0 +1,15 @@
+2024-07-17 02:18:58,339:INFO:Updated absence status for employee 1 on Mon to out
+2024-07-17 02:19:29,119:INFO:Scheduler exited by user
+2024-07-17 02:20:08,946:INFO:Scheduler exited by user
+2024-07-17 02:20:25,828:INFO:Exported wage report
+2024-07-17 02:20:40,419:INFO:Scheduler exited by user
+2024-07-17 02:20:55,231:INFO:Exported schedule for employee 1 to schedules\employee_1_schedule.xlsx
+2024-07-17 02:21:11,244:INFO:Scheduler exited by user
+2024-07-17 02:21:32,953:INFO:Exported full schedule
+2024-07-17 02:21:49,597:INFO:Scheduler exited by user
+2024-07-17 02:33:29,469:INFO:Updated absence status for employee 1 on Mon to out
+2024-07-17 02:39:50,381:INFO:Scheduler exited by user
+2024-07-17 02:40:30,199:INFO:Updated absence status for employee 1 on Mon to out
+2024-07-17 02:40:36,679:INFO:Exported full schedule
+2024-07-17 02:40:43,303:INFO:Exported wage report
+2024-07-17 02:40:49,572:INFO:Exported schedule for employee 1 to schedules\employee_1_schedule.xlsx
